@@ -1,0 +1,392 @@
+{
+    "buy": [
+        {
+            "id": "1",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/buy/buy-1.png",
+            "discountPer": "-25%",
+            "newPrice": "1 999 ₽",
+            "oldPrice": "2 499 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "2",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/buy/buy-2.png",
+            "discountPer": "-25%",
+            "newPrice": "1 999 ₽",
+            "oldPrice": "2 499 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "3",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/buy/buy-3.png",
+            "discountPer": "-25%",
+            "newPrice": "1 999 ₽",
+            "oldPrice": "2 499 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "4",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/buy/buy-4.png",
+            "discountPer": "-25%",
+            "newPrice": "1 999 ₽",
+            "oldPrice": "2 499 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "5",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/buy/buy-5.png",
+            "discountPer": "-25%",
+            "newPrice": "1 999 ₽",
+            "oldPrice": "2 499 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "6",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/buy/buy-6.png",
+            "discountPer": "-25%",
+            "newPrice": "1 999 ₽",
+            "oldPrice": "2 499 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "7",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/buy/buy-7.png",
+            "discountPer": "-25%",
+            "newPrice": "1 999 ₽",
+            "oldPrice": "2 499 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "8",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/buy/buy-8.png",
+            "discountPer": "-25%",
+            "newPrice": "1 999 ₽",
+            "oldPrice": "2 499 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "9",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/buy/buy-9.png",
+            "discountPer": "-25%",
+            "newPrice": "1 999 ₽",
+            "oldPrice": "2 499 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "10",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/buy/buy-10.png",
+            "discountPer": "-25%",
+            "newPrice": "1 999 ₽",
+            "oldPrice": "2 499 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "11",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/buy/buy-11.png",
+            "discountPer": "-25%",
+            "newPrice": "1 999 ₽",
+            "oldPrice": "2 499 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "12",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/buy/buy-12.png",
+            "discountPer": "-25%",
+            "newPrice": "1 999 ₽",
+            "oldPrice": "2 499 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        }
+    ],
+    "new": [
+        {
+            "id": "1",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/new/new-1.png",
+            "price": "2 399 ₽",
+            "desc": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+            "id": "2",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/new/new-2.png",
+            "price": "1 375 ₽",
+            "desc": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+            "id": "3",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/new/new-3.png",
+            "price": "2 399 ₽",
+            "desc": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+            "id": "4",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/new/new-4.png",
+            "price": "1 375 ₽",
+            "desc": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+            "id": "5",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/new/new-5.png",
+            "price": "1 999 ₽",
+            "desc": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+            "id": "6",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/new/new-6.png",
+            "price": "599 ₽",
+            "desc": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+            "id": "7",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/new/new-7.png",
+            "price": "2 399 ₽",
+            "desc": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+            "id": "8",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/new/new-8.png",
+            "price": "3 179 ₽",
+            "desc": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+            "id": "9",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/new/new-9.png",
+            "price": "2 399 ₽",
+            "desc": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+            "id": "10",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/new/new-10.png",
+            "price": "1 375 ₽",
+            "desc": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+            "id": "11",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/new/new-11.png",
+            "price": "1 999 ₽",
+            "desc": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+            "id": "12",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/new/new-12.png",
+            "price": "2 399 ₽",
+            "desc": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        }
+    ],
+    "rec": [
+        {
+            "id": "1",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-1.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "2",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-2.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "3",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-3.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "4",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-4.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "5",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-5.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "6",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-6.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "7",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-7.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "8",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-8.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "9",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-9.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "10",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-10.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "11",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-11.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "12",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-12.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "13",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-13.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "14",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-14.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "15",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-15.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "16",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-16.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "17",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-17.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "18",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-18.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "19",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-19.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "20",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-20.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "21",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-21.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "22",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-22.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "23",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-23.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "24",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-24.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "25",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-25.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "26",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-26.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "27",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-27.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "28",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-28.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "29",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-29`.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "30",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-30.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "31",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-31.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "32",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-32.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "33",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-33.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "34",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-34.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "35",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-35.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "36",
+            "img": "https://raw.githubusercontent.com/abdulazizfateh/29lessonhomework-PlaceImages/main/rec/rec-36.png",
+            "price": "1 375 ₽",
+            "desc": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        }
+    ]
+}
